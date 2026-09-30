@@ -1,0 +1,14 @@
+I also used the Free model of OpenAI's ChatGPT for this portion. It gave me the answer in 4.23 seconds
+
+Output:
+sample_id	organism	gene	stated_length	note	actual_length
+sample_001	Homo sapiens	BRCA1	120		120
+sample_002	Homo sapiens	TP53			134
+sample_003	Homo sapiens	EGFR	150		157
+sample_004	Homo sapiens	BRCA1			104
+sample_005	Homo sapiens	TP53	130		144
+sample_006	Homo sapiens	EGFR			125
+sample_007	Homo sapiens	BRCA1		re-sequenced	135
+sample_008	Homo sapiens	TP53			123
+
+

@@ -1,0 +1,65 @@
+Used OpenAI's ChatGpt for this portion. I used the Free model since I don't have a subscription and it provided the answers in 32.93 seconds.
+
+Output:
+sample_id	patient_name	dob	sex	site	glucose_mg_dl	notes
+S0001	A. Nguyen	7/9/1962	F	Site B	145.9	
+S0002	T. Patel	12/16/1974	M	Site C	146.1	
+S0003	R. Martinez	11/24/1953	F	Site B	84.2	
+S0004	A. Patel	2/27/1957	F	Site B	120	
+S0005	B. Martinez	12/2/1997	M	Site B	138.3	
+S0006	R. Kim	12/5/1968	F	Site C	2880.76	
+S0007	T. Martinez	9/4/1969	Unknown	Site A	206	
+S0008	K. Davis	8/20/1999	F	Site C	229.3	
+S0009	S. Davis	7/19/1995	M	Site C	185	
+S0010	A. Martinez	10/1/1951	F	Site C	215.2	re-draw requested
+S0011	B. Davis	7/9/1961	M	Site A	2972.64	
+S0012	T. Johnson	6/7/1996	Unknown	Site A	110.4	re-draw requested
+S0013	A. Patel	10/26/1952	F	Site B	2032.2	
+S0014	K. Kim	9/12/1958	F	Site B	144	
+S0015	B. Patel	2/11/1998	M	Site B	1855.65	
+S0016	A. Davis	5/15/1958	Unknown	Site B	157.4	
+S0017	K. Nguyen	7/16/2015	Unknown	Site A	123.4	
+S0018	J. Smith	3/10/1957	F	Site B	82.2	
+S0019	B. Kim	9/16/2000	M	Site A	190.6	
+S0020	B. Smith	7/5/2000	F	Site B	108.4	
+S0021	K. Davis	11/16/2004	M	Site C	88.6	
+S0022	M. Johnson	11/25/2006	Unknown	Site A	233	
+S0023	S. Lee	6/30/1999	M	Site A	83.5	
+S0024	S. Johnson	7/31/1953	F	Site C	114.9	
+S0025	M. Lee	11/19/1965	M	Site A	202.6	
+S0026	J. Garcia	6/22/1953	F	Site A	3909.47	
+S0027	T. Johnson	3/24/1956	F	Site C	161.7	
+S0028	S. Smith	12/26/1988	F	Site B	179.1	
+S0029	M. Johnson	8/4/2009	F	Site C	222.6	
+S0030	M. Kim	1/6/1984	M	Site B	168.6	
+S0031	K. Brown	11/11/1995	M	Site C	85.3	
+S0032	J. Smith	8/17/1992	Unknown	Site B	229.5	
+S0033	B. Kim	6/7/2012	M	Site B	114.9	
+S0034	K. Martinez	4/15/1995	Unknown	Site A	3673.46	
+S0035	K. Patel	12/13/1956	F	Site A	130.5	
+S0036	T. Johnson	4/21/1987	Unknown	Site C	145.6	
+S0037	T. Kim	11/28/2015	Unknown	Site A	2145.71	re-draw requested
+S0038	K. Lee	12/2/1997	Unknown	Site B	171.6	
+S0039	R. Patel	4/12/1980	M	Site C	4345.46	
+S0040	R. Patel	6/21/2008	M	Site A	105.9	
+S0041	K. Nguyen	1/20/1965	M	Site A	89.5	
+S0042	M. Garcia	4/10/2006	F	Site C	209	
+S0043	B. Davis	2/19/1951	Unknown	Site A	148	
+S0044	S. Martinez	4/13/1998	Unknown	Site B	218.6	
+S0045	K. Martinez	1/1/1984	M	Site B	223.2	
+S0046	S. Davis	2/21/1967	F	Site C	143.2	
+S0047	M. Kim	6/21/1977	Unknown	Site B	2983.45	
+S0048	M. Garcia	4/23/1978	M	Site A	1961.94	
+S0049	M. Nguyen	2/5/1966	M	Site C	166.1	re-draw requested
+S0050	K. Garcia	7/2/2001	Unknown	Site B	149.3	
+S0051	K. Garcia	8/2/2011	M	Site A	216	
+S0052	M. Davis	9/20/1989	Unknown	Site A	172.4	
+S0053	B. Lee	7/10/1999	M	Site A	2585.3	
+S0054	M. Nguyen	1/28/2006	Unknown	Site A	168	
+S0055	S. Brown	10/14/2011	Unknown	Site A	2884.36	
+S0056	A. Garcia	6/30/2010	M	Site B	77.2	
+S0057	K. Garcia	8/20/1986	F	Site C	88.8	
+S0058	A. Brown	8/23/1972	F	Site C	142.8	
+S0059	K. Brown	4/6/1968	M	Site A	2682.58	
+S0060	A. Davis	2/27/1970	Unknown	Site A	186.6	
+
