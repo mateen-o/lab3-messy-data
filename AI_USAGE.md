@@ -76,7 +76,9 @@ Used Claude (Cowork) to draft regex scripts.
 
 I reviewed the scripts, ran and checked them against the raw data, and wrote
 
-the comparison and analysis myself. I also used Claude to draft the prompt for Task 2 AI-assisted extraction, as well as troubleshoot commands.
+the comparison and analysis myself. I also used Claude to draft the prompt for Task 2 AI-assisted extraction, as well as troubleshoot commands. Claude drafted `writeup.md` from my outputs and comparison results.
 
+.
 
+\- \*\*README and this file:\*\* drafted by Claude and edited by me.
 
