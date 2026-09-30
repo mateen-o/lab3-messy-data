@@ -1,0 +1,74 @@
+sample_id,field,regex_value,ai_value,regex_notes
+S0001,dob,1962-07-09,7/9/1962,AMBIGUOUS: assumed MM/DD
+S0002,dob,1974-12-16,12/16/1974,
+S0003,dob,1953-11-24,11/24/1953,id 's-0003' -> S0003; 2-digit year '53' -> 1953
+S0004,dob,1957-02-27,2/27/1957,
+S0005,dob,1997-12-02,12/2/1997,
+S0006,dob,1968-12-05,12/5/1968,id 's-0006' -> S0006; UNIT CONFLICT: 159.9 is implausible in mmol/L; kept as mg/dL
+S0006,glucose_mg_dl,159.9,2880.76,id 's-0006' -> S0006; UNIT CONFLICT: 159.9 is implausible in mmol/L; kept as mg/dL
+S0007,dob,1969-09-04,9/4/1969,
+S0008,dob,1999-08-20,8/20/1999,
+S0009,dob,1995-07-19,7/19/1995,id 's-0009' -> S0009
+S0010,dob,1951-10-01,10/1/1951,AMBIGUOUS: assumed MM/DD
+S0011,dob,1961-07-09,7/9/1961,2-digit year '61' -> 1961; AMBIGUOUS: assumed MM/DD; UNIT CONFLICT: 165.0 is implausible in mmol/L; kept as mg/dL
+S0011,glucose_mg_dl,165.0,2972.64,2-digit year '61' -> 1961; AMBIGUOUS: assumed MM/DD; UNIT CONFLICT: 165.0 is implausible in mmol/L; kept as mg/dL
+S0012,dob,1996-06-07,6/7/1996,2-digit year '96' -> 1996; AMBIGUOUS: assumed MM/DD; sex blank
+S0013,dob,1952-10-26,10/26/1952,UNIT CONFLICT: 112.8 is implausible in mmol/L; kept as mg/dL
+S0013,glucose_mg_dl,112.8,2032.2,UNIT CONFLICT: 112.8 is implausible in mmol/L; kept as mg/dL
+S0014,dob,1958-09-12,9/12/1958,2-digit year '58' -> 1958; AMBIGUOUS: assumed MM/DD
+S0015,dob,1998-02-11,2/11/1998,2-digit year '98' -> 1998; AMBIGUOUS: assumed MM/DD; UNIT CONFLICT: 103.0 is implausible in mmol/L; kept as mg/dL
+S0015,glucose_mg_dl,103.0,1855.65,2-digit year '98' -> 1998; AMBIGUOUS: assumed MM/DD; UNIT CONFLICT: 103.0 is implausible in mmol/L; kept as mg/dL
+S0016,dob,1958-05-15,5/15/1958,sex blank
+S0017,dob,2015-07-16,7/16/2015,2-digit year '15' -> 2015; sex blank
+S0018,dob,1957-03-10,3/10/1957,
+S0019,dob,2000-09-16,9/16/2000,id 's-0019' -> S0019
+S0020,dob,2000-07-05,7/5/2000,AMBIGUOUS: assumed MM/DD
+S0021,dob,2004-11-16,11/16/2004,
+S0022,dob,2006-11-25,11/25/2006,sex blank
+S0023,dob,1999-06-30,6/30/1999,2-digit year '99' -> 1999
+S0024,dob,1953-07-31,7/31/1953,
+S0025,dob,1965-11-19,11/19/1965,2-digit year '65' -> 1965
+S0026,dob,1953-06-22,6/22/1953,2-digit year '53' -> 1953; UNIT CONFLICT: 217.0 is implausible in mmol/L; kept as mg/dL
+S0026,glucose_mg_dl,217.0,3909.47,2-digit year '53' -> 1953; UNIT CONFLICT: 217.0 is implausible in mmol/L; kept as mg/dL
+S0027,dob,1956-03-24,3/24/1956,
+S0028,dob,1988-12-26,12/26/1988,
+S0029,dob,2009-08-04,8/4/2009,id 's-0029' -> S0029
+S0030,dob,1984-01-06,1/6/1984,
+S0031,dob,1995-11-11,11/11/1995,2-digit year '95' -> 1995
+S0032,dob,1992-08-17,8/17/1992,
+S0033,dob,2012-06-07,6/7/2012,2-digit year '12' -> 2012; AMBIGUOUS: assumed MM/DD
+S0034,dob,1995-04-15,4/15/1995,2-digit year '95' -> 1995; UNIT CONFLICT: 203.9 is implausible in mmol/L; kept as mg/dL
+S0034,glucose_mg_dl,203.9,3673.46,2-digit year '95' -> 1995; UNIT CONFLICT: 203.9 is implausible in mmol/L; kept as mg/dL
+S0035,dob,1956-12-13,12/13/1956,
+S0036,dob,1987-04-21,4/21/1987,id 's-0036' -> S0036; sex blank
+S0037,dob,2015-11-28,11/28/2015,UNIT CONFLICT: 119.1 is implausible in mmol/L; kept as mg/dL
+S0037,glucose_mg_dl,119.1,2145.71,UNIT CONFLICT: 119.1 is implausible in mmol/L; kept as mg/dL
+S0038,dob,1997-12-02,12/2/1997,AMBIGUOUS: assumed MM/DD
+S0039,dob,1980-04-12,4/12/1980,2-digit year '80' -> 1980; AMBIGUOUS: assumed MM/DD; trailing * removed; UNIT CONFLICT: 241.2 is implausible in mmol/L; kept as mg/dL
+S0039,glucose_mg_dl,241.2,4345.46,2-digit year '80' -> 1980; AMBIGUOUS: assumed MM/DD; trailing * removed; UNIT CONFLICT: 241.2 is implausible in mmol/L; kept as mg/dL
+S0040,dob,2008-06-21,6/21/2008,
+S0041,dob,1965-01-20,1/20/1965,
+S0042,dob,2006-04-10,4/10/2006,trailing * removed
+S0043,dob,1951-02-19,2/19/1951,2-digit year '51' -> 1951
+S0044,dob,1998-04-13,4/13/1998,2-digit year '98' -> 1998
+S0045,dob,1984-01-01,1/1/1984,
+S0046,dob,1967-02-21,2/21/1967,
+S0047,dob,1977-06-21,6/21/1977,id 's-0047' -> S0047; UNIT CONFLICT: 165.6 is implausible in mmol/L; kept as mg/dL
+S0047,glucose_mg_dl,165.6,2983.45,id 's-0047' -> S0047; UNIT CONFLICT: 165.6 is implausible in mmol/L; kept as mg/dL
+S0048,dob,1978-04-23,4/23/1978,UNIT CONFLICT: 108.9 is implausible in mmol/L; kept as mg/dL
+S0048,glucose_mg_dl,108.9,1961.94,UNIT CONFLICT: 108.9 is implausible in mmol/L; kept as mg/dL
+S0049,dob,1966-02-05,2/5/1966,
+S0050,dob,2001-07-02,7/2/2001,
+S0051,dob,2011-08-02,8/2/2011,id 's-0051' -> S0051; AMBIGUOUS: assumed MM/DD
+S0052,dob,1989-09-20,9/20/1989,
+S0053,dob,1999-07-10,7/10/1999,AMBIGUOUS: assumed MM/DD; UNIT CONFLICT: 143.5 is implausible in mmol/L; kept as mg/dL
+S0053,glucose_mg_dl,143.5,2585.3,AMBIGUOUS: assumed MM/DD; UNIT CONFLICT: 143.5 is implausible in mmol/L; kept as mg/dL
+S0054,dob,2006-01-28,1/28/2006,
+S0055,dob,2011-10-14,10/14/2011,UNIT CONFLICT: 160.1 is implausible in mmol/L; kept as mg/dL
+S0055,glucose_mg_dl,160.1,2884.36,UNIT CONFLICT: 160.1 is implausible in mmol/L; kept as mg/dL
+S0056,dob,2010-06-30,6/30/2010,
+S0057,dob,1986-08-20,8/20/1986,
+S0058,dob,1972-08-23,8/23/1972,
+S0059,dob,1968-04-06,4/6/1968,UNIT CONFLICT: 148.9 is implausible in mmol/L; kept as mg/dL
+S0059,glucose_mg_dl,148.9,2682.58,UNIT CONFLICT: 148.9 is implausible in mmol/L; kept as mg/dL
+S0060,dob,1970-02-27,2/27/1970,
